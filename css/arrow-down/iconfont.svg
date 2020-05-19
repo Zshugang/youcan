@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="angleup" unicode="&#58937;" d="M761.5 240q0-6.5-5-11.5l-25-25q-5-5-11.5-5t-11.5 5l-196.5 196.5-196.5-196.5q-5-5-11.5-5t-11.5 5l-25 25q-5 5-5 11.5t5 11.5l233 233q5 5 11.5 5t11.5-5l233-233q5-5 5-11.5z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="angledown" unicode="&#59101;" d="M328.89 514.926l183.109-183.109 183.11 183.109c2.795 2.795 6.988 4.659 10.715 4.659 3.729 0 7.922-1.864 10.717-4.659l23.297-23.297c2.795-2.795 4.66-6.988 4.66-10.716s-1.865-7.921-4.66-10.717L522.715 253.074c-2.795-2.795-6.988-4.659-10.716-4.659s-7.921 1.864-10.716 4.659L284.161 470.196c-2.795 2.796-4.659 6.989-4.659 10.717s1.864 7.921 4.659 10.716l23.296 23.297c2.795 2.795 6.523 4.659 10.716 4.659C321.901 519.585 326.095 517.721 328.89 514.926z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
